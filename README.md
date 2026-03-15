@@ -33,4 +33,4 @@ Pour installer et exécuter ce projet localement :
 5. Lancer le frontend : `npm start`
 
 ---
-*Développé par ADAM Mohamed 
+*Développé par ADAM Mohamed *
